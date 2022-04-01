@@ -295,7 +295,7 @@ void GetChar(char tmpChar)
     MorseDah();
     LightsOff(elemPause);
     break;
-      case 'k':
+    case 'k':
       MorseDah();
     LightsOff(elemPause);
     MorseDit();
@@ -313,7 +313,7 @@ void GetChar(char tmpChar)
     MorseDit();
     LightsOff(elemPause);
     break;
-      case 'm':
+    case 'm':
       MorseDah();
     LightsOff(elemPause);
     MorseDah();
